@@ -5,5 +5,4 @@
 		  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
            version="2.5">
 
-    <display-name>AstroTrak Server</display-name>
 </web-app>
