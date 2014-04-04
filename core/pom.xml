@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>astrotrak-client</artifactId>
+    <artifactId>astrotrak-core</artifactId>
 
 
 </project>
